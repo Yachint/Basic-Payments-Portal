@@ -100,7 +100,7 @@ const Screen2 = (props) => {
             <MyCard>
                 <form className={classes.root} noValidate autoComplete="off" onSubmit={handleSubmit}>
                     <Typography variant="h5">
-                            Enter Details :
+                            Enter Payment Details :
                     </Typography>
                     <div>
                         <Select
